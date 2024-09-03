@@ -2,20 +2,9 @@ from flask import Flask, request, jsonify
 from models.model_manager import ModelManager
 from utils.logging_setup import setup_logging
 
-# Initialize Flask app
 app = Flask(__name__)
-
-# Setup logging
 logger = setup_logging()
-
-# Initialize model manager
 model_manager = ModelManager()
-
-@app.route('/train', methods=['POST'])
-def train_model():
-    logger.info("Received request to train the model.")
-    model_manager.train_model()
-    return jsonify({"message": "Model trained successfully!"})
 
 @app.route('/test', methods=['POST'])
 def test_model():
