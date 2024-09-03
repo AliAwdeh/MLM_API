@@ -1,0 +1,52 @@
+2024-09-03 11:27:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 11:27:04 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-03 11:27:04 - INFO -  * Restarting with stat
+2024-09-03 11:27:10 - WARNING -  * Debugger is active!
+2024-09-03 11:27:10 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:29:14 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 11:29:14 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-03 11:29:14 - INFO -  * Restarting with stat
+2024-09-03 11:29:20 - WARNING -  * Debugger is active!
+2024-09-03 11:29:20 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:31:33 - INFO - Testing model version mlmv0 with image /Users/aliawdeh/Downloads/318.jpg.
+2024-09-03 11:31:34 - INFO - Model version mlmv0 loaded successfully from local storage!
+2024-09-03 11:31:35 - INFO - Accuracy: 0.00% with similar IDs: [30774, 26266, 22601, 30767, 30753]
+2024-09-03 11:31:35 - INFO - 127.0.0.1 - - [03/Sep/2024 11:31:35] "POST /test HTTP/1.1" 200 -
+2024-09-03 11:34:27 - INFO -  * Detected change in '/Users/aliawdeh/Desktop/MLM_API/models/model_manager.py', reloading
+2024-09-03 11:34:28 - INFO -  * Restarting with stat
+2024-09-03 11:34:35 - WARNING -  * Debugger is active!
+2024-09-03 11:34:35 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:34:43 - INFO -  * Detected change in '/Users/aliawdeh/Desktop/MLM_API/app.py', reloading
+2024-09-03 11:34:43 - INFO -  * Restarting with stat
+2024-09-03 11:34:49 - WARNING -  * Debugger is active!
+2024-09-03 11:34:49 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:35:05 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 11:35:05 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-03 11:35:05 - INFO -  * Restarting with stat
+2024-09-03 11:35:11 - WARNING -  * Debugger is active!
+2024-09-03 11:35:11 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:38:30 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 11:38:30 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-03 11:38:30 - INFO -  * Restarting with stat
+2024-09-03 11:38:35 - WARNING -  * Debugger is active!
+2024-09-03 11:38:35 - INFO -  * Debugger PIN: 111-196-235
+2024-09-03 11:39:01 - INFO - Testing model version mlmv0 with image /Users/aliawdeh/Downloads/318.jpg.
+2024-09-03 11:39:02 - INFO - Model version mlmv0 loaded successfully from local storage!
+2024-09-03 11:39:03 - INFO - Similar items found for image /Users/aliawdeh/Downloads/318.jpg: [30774, 26266, 22601, 30767, 30753]
+2024-09-03 11:39:03 - INFO - 127.0.0.1 - - [03/Sep/2024 11:39:03] "POST /test HTTP/1.1" 200 -
+2024-09-03 11:39:23 - INFO - Testing model version mlmv0 with image /Users/aliawdeh/Downloads/318.jpg.
+2024-09-03 11:39:24 - INFO - Model version mlmv0 loaded successfully from local storage!
+2024-09-03 11:39:24 - INFO - Similar items found for image /Users/aliawdeh/Downloads/318.jpg: [30774, 26266, 22601, 30767, 30753]
+2024-09-03 11:39:24 - INFO - 127.0.0.1 - - [03/Sep/2024 11:39:24] "POST /test HTTP/1.1" 200 -
+2024-09-03 11:40:03 - INFO - Testing model version mlmv0 with image /Users/aliawdeh/Downloads/1659.jpg.
+2024-09-03 11:40:03 - INFO - Model version mlmv0 loaded successfully from local storage!
+2024-09-03 11:40:04 - INFO - Similar items found for image /Users/aliawdeh/Downloads/1659.jpg: [17922, 17914, 2283, 22601, 14017]
+2024-09-03 11:40:04 - INFO - 127.0.0.1 - - [03/Sep/2024 11:40:04] "POST /test HTTP/1.1" 200 -
+2024-09-03 11:42:30 - INFO - Testing model version mlmv0 with image /Users/aliawdeh/Downloads/22601.jpg.
+2024-09-03 11:42:32 - INFO - Model version mlmv0 loaded successfully from local storage!
+2024-09-03 11:42:32 - INFO - Similar items found for image /Users/aliawdeh/Downloads/22601.jpg: [22601, 17922, 38558, 44219, 31455]
+2024-09-03 11:42:32 - INFO - 127.0.0.1 - - [03/Sep/2024 11:42:32] "POST /test HTTP/1.1" 200 -

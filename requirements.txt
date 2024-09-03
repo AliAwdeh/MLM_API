@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+faiss-cpu
+scikit-learn
+keras
+tensorflow
